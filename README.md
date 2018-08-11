@@ -1,3 +1,5 @@
+## ** INFO **
+Note this is a fork of https://github.com/friendlyarm/BakeBit
 ## **BakeBit**
 
 BakeBit is an open source platform for connecting BakeBit Sensors to the NanoPi NEO/NEO2. It is based on the GrovePi.
